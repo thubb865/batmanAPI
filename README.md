@@ -47,7 +47,8 @@ The app sends a request to a fictional API and displays results in the terminal.
 - Python 3  
 - Requests  
 - JSON  
-- GitHub  
+- GitHub
+- Pandas  
 
 
 ## Installation
@@ -76,7 +77,7 @@ The app sends a request to a fictional API and displays results in the terminal.
     ├── README.md
     ├── batmanAPI.py
     └── requirements.txt
-
+    
 
 ## Roadmap
 
