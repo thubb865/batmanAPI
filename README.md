@@ -31,6 +31,11 @@ batmanAPI.py is a beginner-friendly Python application designed to simulate work
 - Display Gotham City locations  
 - Return Batman quotes  
 
+## Future Ideas
+
+- Gotham weather  
+- Alfred assistant  
+- Bat-Signal tracker  
 
 ## How It Works
 
